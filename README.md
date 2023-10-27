@@ -26,6 +26,16 @@
 -->
 </p>
 
+
+<p>
+<a href="https://www.holopin.io/@dmytrovoytko#badges"><img src="./achievements/Hacktoberfest-10-level4.webp" alt="Hacktoberfest" height="100" title="Hacktoberfest 2023"></a> 
+<a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Set-Up-and-Configure-a-Cloud-Environment-in-Google-Cloud.png" alt="Set Up and Configure a Cloud Environment in Google Cloud" height="100" title="Set Up and Configure a Cloud Environment in Google Cloud"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Perform-Foundational-Infrastructure-Tasks-in-Google-Cloud.png" alt="Perform Foundational Infrastructure Tasks in Google Cloud" height="100" title="Perform Foundational Infrastructure Tasks in Google Cloud"></a>
+<a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Generative-AI-Fundamentals.png" alt="Generative AI Fundamentals" height="100" title="Set Up and Generative AI Fundamentals"></a>
+<a href="https://www.credly.com/badges/d64f2e07-3447-4038-a050-d9d9cbe323e8"><img src="./achievements/scrum.org-Professional-Scrum-Master-1-cert.png" alt="Professional Scrum Master™ I (PSM I)" height="100" title="Professional Scrum Master™ I (PSM I)"></a>
+</p>
+
+
 <!-- contacts -->
 <p align="center">
 <strong>Contact me</strong>: <!--<a href="mailto:Dmytro.Voytko@gmail.com"><img src="./assets/gmail.svg" alt="Gmail" height="50" title="Send mail"></a>-->
