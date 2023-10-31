@@ -88,3 +88,5 @@ activity graph heroku-app end -->
     </a>
 </p>
 -->
+
+![Visitor Count](https://profile-counter.glitch.me/dmytrovoytko/count.svg)
