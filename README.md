@@ -90,4 +90,4 @@ activity graph heroku-app end -->
 
 ![Visitor Count](https://profile-counter.glitch.me/dmytrovoytko/count.svg)
 -->
-<img style="visibility: hidden;" src="https://profile-counter.glitch.me/dmytrovoytko/count.svg">
+<img width="1" height="1" src="https://profile-counter.glitch.me/dmytrovoytko/count.svg">
