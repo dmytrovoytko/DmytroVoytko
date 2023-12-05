@@ -87,6 +87,7 @@ activity graph heroku-app end -->
         <img alt="codewars badge" src="https://www.codewars.com//users/DmytroVoytko/badges/large">
     </a>
 </p>
--->
 
 ![Visitor Count](https://profile-counter.glitch.me/dmytrovoytko/count.svg)
+-->
+<img style="visibility: hidden;" src="https://profile-counter.glitch.me/dmytrovoytko/count.svg">
