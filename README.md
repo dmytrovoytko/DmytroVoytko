@@ -15,7 +15,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.svg" alt="JavaScript" height="50" title="JavaScript documentation"></a>
 <a href="https://www.typescriptlang.org/docs/"><img src="./assets/typescript.svg" alt="Typescript" height="50" title="Typescript documentation"></a>
 &nbsp;
-<a href="https://colab.research.google.com/"><img src="./assets/google-colaboratory.svg" alt="Google Colab" height="50" title="Google Colabpratoty"></a>
+<a href="https://colab.research.google.com/"><img src="./assets/google-colaboratory.svg" alt="Google Colab" height="50" title="Google Colaboratory"></a>
 <a href="https://www.kaggle.com/"><img src="./assets/kaggle.svg" alt="Kaggle" height="50" title="Kaggle - the largest AI & ML community"></a>
 &nbsp;
 <a href="https://wordpress.org/documentation/"><img src="./assets/wordpress.svg" alt="Wordpress" height="50" title="Wordpress documentation"></a>
