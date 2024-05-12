@@ -20,7 +20,7 @@
 &nbsp;
 <a href="https://wordpress.org/documentation/"><img src="./assets/wordpress.svg" alt="Wordpress" height="50" title="Wordpress documentation"></a>
 &nbsp;
-<a href="https://core.telegram.org/bots/api"><img src="./assets/telegram-chatbot.png" alt="Telegram chatbots" height="50" title="Telegram chatbots API documentation"></a> 
+<a href="https://core.telegram.org/bots/api"><img src="./assets/telegram-chatbot.png" alt="Telegram chatbots development (python)" height="50" title="Telegram chatbots development (python)"></a> 
 &nbsp;
 <a href="https://linuxmint.com/documentation.php"><img src="./assets/linux-mint.svg" alt="Linux Mint" height="50" title="Linux Mint documentation"></a>
 <a href="https://wiki.manjaro.org/index.php/Main_Page"><img src="./assets/manjaro.svg" alt="Manjaro" height="50" title="Manjaro wiki"></a>
