@@ -5,8 +5,12 @@
 
 <p>
 <a href="https://docs.python.org/3/library/index.html"><img src="./assets/python.svg" alt="Python" height="50" title="Python documentation"></a>
+<!-- 
 <a href="https://www.php.net/docs.php"><img src="./assets/php.svg" alt="PHP" height="50" title="PHP documentation"></a>
 <a href="https://dev.mysql.com/doc/"><img src="./assets/mysql.svg" alt="MySQL" height="50" title="MySQL documentation"></a>
+-->
+<a href="https://www.postgresql.org/docs/"><img src="./assets/postgresql.svg" alt="PostgreSQL" height="50" title="PostgreSQL documentation"></a>
+<a href="https://docs.docker.com/"><img src="./assets/docker.png" alt="Docker" height="50" title="Docker documentation"></a>
 &nbsp;
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="./assets/javascript.svg" alt="JavaScript" height="50" title="JavaScript documentation"></a>
 <a href="https://www.typescriptlang.org/docs/"><img src="./assets/typescript.svg" alt="Typescript" height="50" title="Typescript documentation"></a>
@@ -28,13 +32,15 @@
 
 
 <p>
-<a href="https://www.holopin.io/@dmytrovoytko#badges"><img src="./achievements/Hacktoberfest-10-level4.webp" alt="Hacktoberfest" height="90" title="Hacktoberfest 2023"></a> 
+    
+<a href="https://github.com/DataTalksClub/data-engineering-zoomcamp"><img src="./achievements/DataEngineering-Zoomcamp-2024.jpg" alt="Data Engineering Zoomcamp 2024" height="90" title="Data Engineering Zoomcamp 2024"></a> 
 <a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Set-Up-and-Configure-a-Cloud-Environment-in-Google-Cloud.png" alt="Set Up and Configure a Cloud Environment in Google Cloud" height="90" title="Set Up and Configure a Cloud Environment in Google Cloud"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Perform-Foundational-Infrastructure-Tasks-in-Google-Cloud.png" alt="Perform Foundational Infrastructure Tasks in Google Cloud" height="90" title="Perform Foundational Infrastructure Tasks in Google Cloud"></a>
-<a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Generative-AI-Fundamentals.png" alt="Generative AI Fundamentals" height="90" title="Set Up and Generative AI Fundamentals"></a>
+<!-- <a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Generative-AI-Fundamentals.png" alt="Generative AI Fundamentals" height="90" title="Set Up and Generative AI Fundamentals"></a> -->
 <a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Perform-Foundational-Data-ML-and-AI-Tasks-in-Google-Cloud.png" alt="Perform Foundational Data, ML, and AI Tasks in Google Cloud" height="90" title="Perform Foundational Data, ML, and AI Tasks in Google Cloud"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Create-ML-Models-with-BigQuery-ML.png" alt="Create ML Models with BigQuery ML" height="90" title="Create ML Models with BigQuery ML"></a>
 <a href="https://www.credly.com/badges/d64f2e07-3447-4038-a050-d9d9cbe323e8"><img src="./achievements/scrum.org-Professional-Scrum-Master-1-cert.png" alt="Professional Scrum Master™ I (PSM I)" height="90" title="Professional Scrum Master™ I (PSM I)"></a>
+<a href="https://www.holopin.io/@dmytrovoytko#badges"><img src="./achievements/Hacktoberfest-10-level4.webp" alt="Hacktoberfest" height="90" title="Hacktoberfest 2023"></a> 
 <a href="https://google.accredible.com/14bd1020-055b-468d-85d7-662a071c5eec"><img src="./achievements/GCP-PCA-badge.png" alt="Google Cloud certified Professional Cloud Architect" height="90" title="Professional Cloud Architect (Google Cloud)"></a>
 </p>
 
