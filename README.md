@@ -18,7 +18,7 @@
 <a href="https://colab.research.google.com/"><img src="./assets/google-colaboratory.svg" alt="Google Colab" height="50" title="Google Colaboratory"></a>
 <a href="https://www.kaggle.com/"><img src="./assets/kaggle.svg" alt="Kaggle" height="50" title="Kaggle - the largest AI & ML community"></a>
 &nbsp;
-<a href="https://wordpress.org/documentation/"><img src="./assets/wordpress.svg" alt="Wordpress" height="50" title="Wordpress documentation"></a>
+<a href="https://wordpress.org/documentation/"><img src="./assets/wordpress.svg" alt="Wordpress" height="50" title="Wordpress sites development"></a>
 &nbsp;
 <a href="https://core.telegram.org/bots/api"><img src="./assets/telegram-chatbot.png" alt="Telegram chatbots development (python)" height="50" title="Telegram chatbots development (python)"></a> 
 &nbsp;
@@ -33,6 +33,7 @@
 
 <p>
     
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/DmytroVoytko/21F5FB043271A7CA?sharingId=8AE53942B381DE27"><img src="./achievements/Azure-DP-100-Data-Scientist-Associate.png" alt="Microsoft Certified: Azure Data Scientist Associate" height="90" title="Microsoft Certified: Azure Data Scientist Associate"></a> 
 <a href="https://github.com/DataTalksClub/data-engineering-zoomcamp"><img src="./achievements/DataEngineering-Zoomcamp-2024.jpg" alt="Data Engineering Zoomcamp 2024" height="90" title="Data Engineering Zoomcamp 2024"></a> 
 <a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Set-Up-and-Configure-a-Cloud-Environment-in-Google-Cloud.png" alt="Set Up and Configure a Cloud Environment in Google Cloud" height="90" title="Set Up and Configure a Cloud Environment in Google Cloud"></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/e7c986d7-55eb-4688-ae4e-d24ace1405d2"><img src="./achievements/GCP-Perform-Foundational-Infrastructure-Tasks-in-Google-Cloud.png" alt="Perform Foundational Infrastructure Tasks in Google Cloud" height="90" title="Perform Foundational Infrastructure Tasks in Google Cloud"></a>
