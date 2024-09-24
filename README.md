@@ -43,6 +43,7 @@
 <a href="https://www.holopin.io/@dmytrovoytko#badges"><img src="./achievements/Hacktoberfest-10-level4.webp" alt="Hacktoberfest" height="90" title="Hacktoberfest 2023"></a> 
 <a href="https://google.accredible.com/14bd1020-055b-468d-85d7-662a071c5eec"><img src="./achievements/GCP-PCA-badge.png" alt="Google Cloud certified Professional Cloud Architect" height="90" title="Professional Cloud Architect (Google Cloud)"></a>
 <a href="https://www.credly.com/badges/38c59b58-4ba0-4202-a207-44a684cf9c44"><img src="./achievements/GCP-cloud-data-analytics-badge.png" alt="Google Cloud Data Analytics certificate" height="90" title="Google Cloud Data Analytics certificate"></a>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/DmytroVoytko/21F5FB043271A7CA?sharingId=8AE53942B381DE27"><img src="./achievements/microsoft-certified-associate-badge.svg" alt="Microsoft Certified Associate" height="90" title="Microsoft Certified Associate"></a>
 <a href="https://www.credly.com/badges/8b95197a-fbd6-407e-bdcd-f7dcf3c4345d"><img src="./achievements/GitHub-foundations-badge.png" alt="GitHub Foundations" height="90" title="GitHub Foundations"></a>
 </p>
 
