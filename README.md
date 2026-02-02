@@ -71,6 +71,7 @@
 <a href="https://github.com/issues?q=is%3Aissue+author%3ADmytroVoytko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroVoytko&theme=github&hide_border=true"  width="64%" alt="@DmytroVoytko's profile-details"/></a>
 </p>
 -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmytroVoytko&theme=github_dark&utcOffset=2) ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroVoytko&theme=github_dark&hide_border=true")
 
 <!-- wakayime statistics -->
 <!-- activity graph heroku-app start  
