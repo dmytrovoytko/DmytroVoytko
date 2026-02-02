@@ -59,18 +59,18 @@
 <p align="center">
 <a href="https://github.com/DmytroVoytko?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=DmytroVoytko&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@DmytroVoytko's github-readme-stats"/></a>
 <a href="https://github.com/DmytroVoytko?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=DmytroVoytko&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@DmytroVoytko's github-readme-stats"/></a>
-<!-- 
 <a href="https://github.com/DmytroVoytko?tab=stars#gh-dark-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DmytroVoytko&show_icons=true&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@DmytroVoytko's github-readme-streak-stats"/></a>
 <a href="https://github.com/DmytroVoytko?tab=stars#gh-light-mode-only"><img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DmytroVoytko&show_icons=true&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@DmytroVoytko's github-readme-streak-stats"/></a>
--->
 </p>
 
+<!-- 
 <p align="center">
 <a href="https://github.com/pulls?q=is%3Apr+author%3ADmytroVoytko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmytroVoytko&theme=github_dark&utcOffset=3"  width="31%" alt="@DmytroVoytko's productive-time"/></a>
 <a href="https://github.com/pulls?q=is%3Apr+author%3ADmytroVoytko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DmytroVoytko&theme=github&utcOffset=3"  width="31%" alt="@DmytroVoytko's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3ADmytroVoytko+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroVoytko&theme=github_dark&hide_border=true"  width="64%" alt="@DmytroVoytko's profile-details"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3ADmytroVoytko+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmytroVoytko&theme=github&hide_border=true"  width="64%" alt="@DmytroVoytko's profile-details"/></a>
 </p>
+-->
 
 <!-- wakayime statistics -->
 <!-- activity graph heroku-app start  
